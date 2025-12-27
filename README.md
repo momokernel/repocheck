@@ -1,2 +1,2 @@
 # repocheck
-repocheck is a fast, rule-based CLI tool that analyzes software repositories and produces an objective quality score with actionable feedback. It focuses on structure, tests, dependencies, and maintenance signals, making it suitable for local audits and CI pipelines.
+repocheck is a lightweight desktop application designed to evaluate the quality of Git repositories. Built with Python and CustomTkinter, it provides an intuitive GUI for quickly analyzing repositories for common issues, best practices, and overall structure.
